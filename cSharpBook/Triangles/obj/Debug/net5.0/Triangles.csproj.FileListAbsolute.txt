@@ -1,0 +1,16 @@
+C:\Users\seanb\source\repos\cSharpBook\Triangles\obj\Debug\net5.0\Triangles.csproj.AssemblyReference.cache
+C:\Users\seanb\source\repos\cSharpBook\Triangles\obj\Debug\net5.0\Triangles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seanb\source\repos\cSharpBook\Triangles\obj\Debug\net5.0\Triangles.AssemblyInfoInputs.cache
+C:\Users\seanb\source\repos\cSharpBook\Triangles\obj\Debug\net5.0\Triangles.AssemblyInfo.cs
+C:\Users\seanb\source\repos\cSharpBook\Triangles\obj\Debug\net5.0\Triangles.csproj.CoreCompileInputs.cache
+C:\Users\seanb\source\repos\cSharpBook\Triangles\bin\Debug\net5.0\Triangles.exe
+C:\Users\seanb\source\repos\cSharpBook\Triangles\bin\Debug\net5.0\Triangles.deps.json
+C:\Users\seanb\source\repos\cSharpBook\Triangles\bin\Debug\net5.0\Triangles.runtimeconfig.json
+C:\Users\seanb\source\repos\cSharpBook\Triangles\bin\Debug\net5.0\Triangles.runtimeconfig.dev.json
+C:\Users\seanb\source\repos\cSharpBook\Triangles\bin\Debug\net5.0\Triangles.dll
+C:\Users\seanb\source\repos\cSharpBook\Triangles\bin\Debug\net5.0\ref\Triangles.dll
+C:\Users\seanb\source\repos\cSharpBook\Triangles\bin\Debug\net5.0\Triangles.pdb
+C:\Users\seanb\source\repos\cSharpBook\Triangles\obj\Debug\net5.0\Triangles.dll
+C:\Users\seanb\source\repos\cSharpBook\Triangles\obj\Debug\net5.0\ref\Triangles.dll
+C:\Users\seanb\source\repos\cSharpBook\Triangles\obj\Debug\net5.0\Triangles.pdb
+C:\Users\seanb\source\repos\cSharpBook\Triangles\obj\Debug\net5.0\Triangles.genruntimeconfig.cache

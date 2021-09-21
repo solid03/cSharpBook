@@ -1,0 +1,15 @@
+C:\Users\seanb\source\repos\cSharpBook\DuckBear\bin\Debug\net5.0\DuckBear.exe
+C:\Users\seanb\source\repos\cSharpBook\DuckBear\bin\Debug\net5.0\DuckBear.deps.json
+C:\Users\seanb\source\repos\cSharpBook\DuckBear\bin\Debug\net5.0\DuckBear.runtimeconfig.json
+C:\Users\seanb\source\repos\cSharpBook\DuckBear\bin\Debug\net5.0\DuckBear.runtimeconfig.dev.json
+C:\Users\seanb\source\repos\cSharpBook\DuckBear\bin\Debug\net5.0\DuckBear.dll
+C:\Users\seanb\source\repos\cSharpBook\DuckBear\bin\Debug\net5.0\ref\DuckBear.dll
+C:\Users\seanb\source\repos\cSharpBook\DuckBear\bin\Debug\net5.0\DuckBear.pdb
+C:\Users\seanb\source\repos\cSharpBook\DuckBear\obj\Debug\net5.0\DuckBear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seanb\source\repos\cSharpBook\DuckBear\obj\Debug\net5.0\DuckBear.AssemblyInfoInputs.cache
+C:\Users\seanb\source\repos\cSharpBook\DuckBear\obj\Debug\net5.0\DuckBear.AssemblyInfo.cs
+C:\Users\seanb\source\repos\cSharpBook\DuckBear\obj\Debug\net5.0\DuckBear.csproj.CoreCompileInputs.cache
+C:\Users\seanb\source\repos\cSharpBook\DuckBear\obj\Debug\net5.0\DuckBear.dll
+C:\Users\seanb\source\repos\cSharpBook\DuckBear\obj\Debug\net5.0\ref\DuckBear.dll
+C:\Users\seanb\source\repos\cSharpBook\DuckBear\obj\Debug\net5.0\DuckBear.pdb
+C:\Users\seanb\source\repos\cSharpBook\DuckBear\obj\Debug\net5.0\DuckBear.genruntimeconfig.cache
