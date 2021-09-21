@@ -13,3 +13,4 @@ C:\Users\seanb\source\repos\cSharpBook\DuckBear\obj\Debug\net5.0\DuckBear.dll
 C:\Users\seanb\source\repos\cSharpBook\DuckBear\obj\Debug\net5.0\ref\DuckBear.dll
 C:\Users\seanb\source\repos\cSharpBook\DuckBear\obj\Debug\net5.0\DuckBear.pdb
 C:\Users\seanb\source\repos\cSharpBook\DuckBear\obj\Debug\net5.0\DuckBear.genruntimeconfig.cache
+C:\Users\seanb\source\repos\cSharpBook\DuckBear\obj\Debug\net5.0\DuckBear.csproj.AssemblyReference.cache
