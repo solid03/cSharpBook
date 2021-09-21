@@ -1,0 +1,16 @@
+C:\Users\seanb\source\repos\cSharpBook\KingsDominions\obj\Debug\net5.0\KingsDominions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seanb\source\repos\cSharpBook\KingsDominions\obj\Debug\net5.0\KingsDominions.AssemblyInfoInputs.cache
+C:\Users\seanb\source\repos\cSharpBook\KingsDominions\obj\Debug\net5.0\KingsDominions.AssemblyInfo.cs
+C:\Users\seanb\source\repos\cSharpBook\KingsDominions\obj\Debug\net5.0\KingsDominions.csproj.CoreCompileInputs.cache
+C:\Users\seanb\source\repos\cSharpBook\KingsDominions\bin\Debug\net5.0\KingsDominions.exe
+C:\Users\seanb\source\repos\cSharpBook\KingsDominions\bin\Debug\net5.0\KingsDominions.deps.json
+C:\Users\seanb\source\repos\cSharpBook\KingsDominions\bin\Debug\net5.0\KingsDominions.runtimeconfig.json
+C:\Users\seanb\source\repos\cSharpBook\KingsDominions\bin\Debug\net5.0\KingsDominions.runtimeconfig.dev.json
+C:\Users\seanb\source\repos\cSharpBook\KingsDominions\bin\Debug\net5.0\KingsDominions.dll
+C:\Users\seanb\source\repos\cSharpBook\KingsDominions\bin\Debug\net5.0\ref\KingsDominions.dll
+C:\Users\seanb\source\repos\cSharpBook\KingsDominions\bin\Debug\net5.0\KingsDominions.pdb
+C:\Users\seanb\source\repos\cSharpBook\KingsDominions\obj\Debug\net5.0\KingsDominions.dll
+C:\Users\seanb\source\repos\cSharpBook\KingsDominions\obj\Debug\net5.0\ref\KingsDominions.dll
+C:\Users\seanb\source\repos\cSharpBook\KingsDominions\obj\Debug\net5.0\KingsDominions.pdb
+C:\Users\seanb\source\repos\cSharpBook\KingsDominions\obj\Debug\net5.0\KingsDominions.genruntimeconfig.cache
+C:\Users\seanb\source\repos\cSharpBook\KingsDominions\obj\Debug\net5.0\KingsDominions.csproj.AssemblyReference.cache
