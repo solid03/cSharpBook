@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld\He
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clocktower", "Clocktower\Clocktower.csproj", "{155C66A0-63E2-4A4D-BF19-F4EED3E5D383}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Watchtower", "Watchtower\Watchtower.csproj", "{4D8A076D-08F8-42D1-929C-63AAA36817F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{155C66A0-63E2-4A4D-BF19-F4EED3E5D383}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{155C66A0-63E2-4A4D-BF19-F4EED3E5D383}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{155C66A0-63E2-4A4D-BF19-F4EED3E5D383}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D8A076D-08F8-42D1-929C-63AAA36817F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D8A076D-08F8-42D1-929C-63AAA36817F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D8A076D-08F8-42D1-929C-63AAA36817F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D8A076D-08F8-42D1-929C-63AAA36817F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
