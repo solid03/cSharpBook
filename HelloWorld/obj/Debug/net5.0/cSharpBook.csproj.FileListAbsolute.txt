@@ -1,0 +1,16 @@
+C:\Users\seanb\source\repos\cSharpBook\cSharpBook\bin\Debug\net5.0\cSharpBook.exe
+C:\Users\seanb\source\repos\cSharpBook\cSharpBook\bin\Debug\net5.0\cSharpBook.deps.json
+C:\Users\seanb\source\repos\cSharpBook\cSharpBook\bin\Debug\net5.0\cSharpBook.runtimeconfig.json
+C:\Users\seanb\source\repos\cSharpBook\cSharpBook\bin\Debug\net5.0\cSharpBook.runtimeconfig.dev.json
+C:\Users\seanb\source\repos\cSharpBook\cSharpBook\bin\Debug\net5.0\cSharpBook.dll
+C:\Users\seanb\source\repos\cSharpBook\cSharpBook\bin\Debug\net5.0\ref\cSharpBook.dll
+C:\Users\seanb\source\repos\cSharpBook\cSharpBook\bin\Debug\net5.0\cSharpBook.pdb
+C:\Users\seanb\source\repos\cSharpBook\cSharpBook\obj\Debug\net5.0\cSharpBook.csproj.AssemblyReference.cache
+C:\Users\seanb\source\repos\cSharpBook\cSharpBook\obj\Debug\net5.0\cSharpBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seanb\source\repos\cSharpBook\cSharpBook\obj\Debug\net5.0\cSharpBook.AssemblyInfoInputs.cache
+C:\Users\seanb\source\repos\cSharpBook\cSharpBook\obj\Debug\net5.0\cSharpBook.AssemblyInfo.cs
+C:\Users\seanb\source\repos\cSharpBook\cSharpBook\obj\Debug\net5.0\cSharpBook.csproj.CoreCompileInputs.cache
+C:\Users\seanb\source\repos\cSharpBook\cSharpBook\obj\Debug\net5.0\cSharpBook.dll
+C:\Users\seanb\source\repos\cSharpBook\cSharpBook\obj\Debug\net5.0\ref\cSharpBook.dll
+C:\Users\seanb\source\repos\cSharpBook\cSharpBook\obj\Debug\net5.0\cSharpBook.pdb
+C:\Users\seanb\source\repos\cSharpBook\cSharpBook\obj\Debug\net5.0\cSharpBook.genruntimeconfig.cache
