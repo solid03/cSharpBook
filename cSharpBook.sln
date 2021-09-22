@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "cSharpBook\HelloWorld.csproj", "{B7A58E67-C4AC-4F3E-85D1-8EB7CA9EF598}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triangles", "Triangles\Triangles.csproj", "{50739CD9-B13B-4F46-A2CB-26AE8DBBB77F}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DuckBear", "DuckBear\DuckBear.csproj", "{B1AE7447-FA0F-4DC5-B1A6-8A83A4D8625D}"
@@ -13,16 +11,16 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DefenseofConsolas", "Defens
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KingsDominions", "KingsDominions\KingsDominions.csproj", "{9BCAB0DF-25A3-4C08-8A92-D1727481C3E8}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{90CC7CBD-F39B-420A-A1B9-5BB4D4288902}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clocktower", "Clocktower\Clocktower.csproj", "{155C66A0-63E2-4A4D-BF19-F4EED3E5D383}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B7A58E67-C4AC-4F3E-85D1-8EB7CA9EF598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B7A58E67-C4AC-4F3E-85D1-8EB7CA9EF598}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B7A58E67-C4AC-4F3E-85D1-8EB7CA9EF598}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B7A58E67-C4AC-4F3E-85D1-8EB7CA9EF598}.Release|Any CPU.Build.0 = Release|Any CPU
 		{50739CD9-B13B-4F46-A2CB-26AE8DBBB77F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{50739CD9-B13B-4F46-A2CB-26AE8DBBB77F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50739CD9-B13B-4F46-A2CB-26AE8DBBB77F}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -39,6 +37,14 @@ Global
 		{9BCAB0DF-25A3-4C08-8A92-D1727481C3E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BCAB0DF-25A3-4C08-8A92-D1727481C3E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BCAB0DF-25A3-4C08-8A92-D1727481C3E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90CC7CBD-F39B-420A-A1B9-5BB4D4288902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90CC7CBD-F39B-420A-A1B9-5BB4D4288902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90CC7CBD-F39B-420A-A1B9-5BB4D4288902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90CC7CBD-F39B-420A-A1B9-5BB4D4288902}.Release|Any CPU.Build.0 = Release|Any CPU
+		{155C66A0-63E2-4A4D-BF19-F4EED3E5D383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{155C66A0-63E2-4A4D-BF19-F4EED3E5D383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{155C66A0-63E2-4A4D-BF19-F4EED3E5D383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{155C66A0-63E2-4A4D-BF19-F4EED3E5D383}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
