@@ -1,0 +1,16 @@
+C:\Users\Sean\source\repos\cSharpBook\TheReplicator\bin\Debug\net5.0\TheReplicator.exe
+C:\Users\Sean\source\repos\cSharpBook\TheReplicator\bin\Debug\net5.0\TheReplicator.deps.json
+C:\Users\Sean\source\repos\cSharpBook\TheReplicator\bin\Debug\net5.0\TheReplicator.runtimeconfig.json
+C:\Users\Sean\source\repos\cSharpBook\TheReplicator\bin\Debug\net5.0\TheReplicator.runtimeconfig.dev.json
+C:\Users\Sean\source\repos\cSharpBook\TheReplicator\bin\Debug\net5.0\TheReplicator.dll
+C:\Users\Sean\source\repos\cSharpBook\TheReplicator\bin\Debug\net5.0\ref\TheReplicator.dll
+C:\Users\Sean\source\repos\cSharpBook\TheReplicator\bin\Debug\net5.0\TheReplicator.pdb
+C:\Users\Sean\source\repos\cSharpBook\TheReplicator\obj\Debug\net5.0\TheReplicator.csproj.AssemblyReference.cache
+C:\Users\Sean\source\repos\cSharpBook\TheReplicator\obj\Debug\net5.0\TheReplicator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sean\source\repos\cSharpBook\TheReplicator\obj\Debug\net5.0\TheReplicator.AssemblyInfoInputs.cache
+C:\Users\Sean\source\repos\cSharpBook\TheReplicator\obj\Debug\net5.0\TheReplicator.AssemblyInfo.cs
+C:\Users\Sean\source\repos\cSharpBook\TheReplicator\obj\Debug\net5.0\TheReplicator.csproj.CoreCompileInputs.cache
+C:\Users\Sean\source\repos\cSharpBook\TheReplicator\obj\Debug\net5.0\TheReplicator.dll
+C:\Users\Sean\source\repos\cSharpBook\TheReplicator\obj\Debug\net5.0\ref\TheReplicator.dll
+C:\Users\Sean\source\repos\cSharpBook\TheReplicator\obj\Debug\net5.0\TheReplicator.pdb
+C:\Users\Sean\source\repos\cSharpBook\TheReplicator\obj\Debug\net5.0\TheReplicator.genruntimeconfig.cache
